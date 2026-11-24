@@ -15,7 +15,3 @@ Backtesting hundreds of trading strategies on historical data inevitably produce
 2. **Validation Split:** Selects top-performing strategies in-sample and evaluates performance degradation out-of-sample.
 3. **Statistical Diagnostics:** Visualizes performance collapse and computes overfitting probability metrics.
 
-## Status & Roadmap
-- [ ] **Phase 1 (In Progress):** Random strategy generator, in-sample vs. out-of-sample split engine, and performance degradation plots.
-- [ ] **Phase 2 (Planned):** Implementation of the Deflated Sharpe Ratio (DSR) and Probability of Backtest Overfitting (PBO).
-- [ ] **Phase 3 (Planned):** CLI interface supporting custom user-uploaded strategy return CSVs.
